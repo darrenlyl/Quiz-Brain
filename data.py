@@ -33,7 +33,7 @@ question_data = [
       "type": "boolean",
       "difficulty": "easy",
       "category": "Entertainment: Film",
-      "question": "Leonardo DiCaprio won an Oscar for Best Actor in 2004#039 The Aviator.",
+      "question": "Leonardo DiCaprio won an Oscar for Best Actor in The Aviator.",
       "correct_answer": "False",
       "incorrect_answers": [
         "True"
